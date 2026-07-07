@@ -86,3 +86,8 @@ target_repo/    # seeded buggy repo for the demo
 ## Swapping providers
 
 Only `agent.py` touches the model API. To use a different provider, replace `_call_api` and the tool-schema format in `tools.py`; the loop, sandbox, and reporting are provider-agnostic.
+
+<img width="796" height="396" alt="image" src="https://github.com/user-attachments/assets/58c6d864-eb44-4584-b11e-e0d7dc0792a0" />
+
+
+<img width="959" height="1320" alt="image" src="https://github.com/user-attachments/assets/1384a70e-7518-4904-b3d8-a92a8d98ed6b" />
